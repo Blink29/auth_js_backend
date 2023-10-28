@@ -1,0 +1,19 @@
+20230806	11:35:57	6611f62b-430a-4583-92ae-83bf2c3a3b89	Error: undefined
+20230806	11:36:17	aacb28d8-23c5-4e1d-a8fb-919a4e37d0de	Error: Not allowed by CORS
+20230806	11:44:08	33465a23-c1a3-460e-a246-a8da1efd9feb	TypeError: res.accepts is not a function
+20230806	14:43:55	c8636995-3d90-40ba-8eab-fbda1707aae3	ReferenceError: body is not defined
+20230806	14:44:09	b89fe854-20ec-4874-87e3-caf39b503718	ReferenceError: body is not defined
+20230810	12:26:25	fc1397f8-2850-4c02-9e83-9520d6968456	TypeError: req.headers is not a function
+20230810	12:26:36	f12d5039-4a14-4206-8209-de2f91e62245	TypeError: req.headers is not a function
+20230813	12:54:42	f47e0ae4-1e7e-4b41-bdb2-8391ad1474e6	TypeError: rolesArray.includes(...).find is not a function
+20230817	21:41:29	52c83b2c-889e-4091-9e3d-2a6f43e93424	SyntaxError: Unexpected end of JSON input
+20230818	14:31:22	bcecb424-698f-4386-a43d-51a692f8b992	SyntaxError: Unexpected end of JSON input
+20230818	14:31:25	0d7a1768-df32-4344-974d-bf3f5cd4ef3a	SyntaxError: Unexpected end of JSON input
+20230818	14:31:41	ec33166e-ee79-486e-979c-6726acb93125	SyntaxError: Unexpected end of JSON input
+20230818	14:32:43	ddf54b26-385d-4856-a6fa-f3eba0f3881e	SyntaxError: Unexpected end of JSON input
+20230818	14:32:44	54527bae-0b5e-4dd6-badd-1088a75e0bcb	SyntaxError: Unexpected end of JSON input
+20230818	14:34:04	df485033-612a-4722-b74e-342579dca913	SyntaxError: Unexpected end of JSON input
+20230818	14:36:05	a83ff731-a2a7-4a5b-8af2-ac230321e469	SyntaxError: Unexpected end of JSON input
+20230818	15:36:10	77a74bd1-59db-4fb0-aec5-a0dedff1719b	SyntaxError: Unexpected end of JSON input
+20230818	15:38:13	f0688bee-3fd9-4bbe-bc6a-63b7cf568a29	SyntaxError: Unexpected end of JSON input
+20230818	15:42:19	122308a7-c9c1-48b2-8d13-2af7669ea208	SyntaxError: Unexpected non-whitespace character after JSON at position 38
